@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\KovshService\KovshService\bin\Debug\KovshService.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\KovshService\KovshService\bin\Debug\KovshService.exe
+c:\users\admin\documents\visual studio 2013\Projects\KovshService\KovshService\bin\Debug\KovshService.pdb
+c:\users\admin\documents\visual studio 2013\Projects\KovshService\KovshService\obj\Debug\KovshService.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\KovshService\KovshService\obj\Debug\KovshService.exe
+c:\users\admin\documents\visual studio 2013\Projects\KovshService\KovshService\obj\Debug\KovshService.pdb
